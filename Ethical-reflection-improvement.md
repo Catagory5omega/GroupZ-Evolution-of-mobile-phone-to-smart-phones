@@ -1,4 +1,4 @@
-# BODY OF PLAN
+# BODY OF PLAN (600 words for both this and conc)
 - The need for phone use in daily life: dependancy
 - Lack of ethical phone brands: conflict minerals, mineral sourcing, conditons within factories, limitied repairability
 - the presence of e-waste
@@ -7,10 +7,28 @@
 
 - (Ethical Reflection & Improvements - Critical evaluation and solutions
 
-  3 ISSUES: ISSUE, IMPACT, CURRENT RESPONSE
-  PROPOSED IMRPOVMENTS FOR 3 ISSUES
-  LESSONS FOR FUTURE DEVELOPMENT
 
-Today, mobile phones are everywhere, many people don't even consider leaving home without one, but why? In the past, before modern phones became available, we used other tools to do the same things—for example, traditional maps, cameras, torches, watches, and MP3 Players. The mobile phone has conveniently replaced them with an all-in-one system; you can thoughtlessly pull out your phone and take a picture or find the nearest gas station without planning. The mobile phone didn't just replace these tools but has improved upon them, redefining convenience as a lightweight, small device in your pocket. And as phones have become more popular, the other everyday tools have been phased out, becoming less accessible, and now, in today's modern day, can we truly consider our phones convenient, or something we must own in order to get through daily life? This co-dependency with the mobile phone has led to the amplification of present-day ethical questions that are no longer simple to solve.
+INTRO - dependency on phones????
 
-A good way to envision this is through the lack of ethical phone brands, the main ethical concern is associated with their life cycle. In the beginning of this cycle often holds concers of mining conflict minerals (minerals obtained from war-torn areas that resources sustain these conflicts) and poor labour condition, later on the main consensus becomes their limited reparability and e-waste. THE Good Shopping Guide researchers have investigated a multitude of brands and analyzed the phones' life cycles - in total, 19 brands. They recorded the GSG Ethical score of each device, with the Benchmark score being 64. Only three brands passed the GSG ethical score. The three brands were Fairphone with a 99 Ethical score, Nokia with a score of 83 and Nothing with a score of 77. Some of the lowest-ranked brands were Samsung, Huawei, Google Pixel and iPhone, along with Mi, with the same score - all of which had a score below 40. Surprisingly, although Samsung ranked the lowest in the survey, it does have the top rating of Eco Labels, including certificates from EPEAT, Energy Star, UL ECOLABEL and EU ECOLABEL. This showcases that although many brands have successfully addressed the public's concerns, most notably being eco-friendly, there are still many criteria to consider before buying a phone.
+
+* (issue 1) conflict mineral
+* impact - prolonged warfare
+* current response - audits and regulations
+
+* (issue 2) e-waste
+* impact -
+* current response -
+
+* (issue 3) moral impact
+* impact -
+* current response -
+
+* PROPOSED IMPROVMENT FOR EACH
+
+* (1) conflict minerals
+
+* (2) e-waste
+
+* (3) moral impact
+
+* LESSONS FOR FUTURE DEVELOPMENT
