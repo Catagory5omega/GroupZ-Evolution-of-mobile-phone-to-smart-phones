@@ -4,4 +4,4 @@ The evolution of mobile phones to smartphones made an outstanding change to our 
 
 An average smartphone owner as of 2026, touches their phone around 2,600 times a day, and from 2012 to 2026 currently, 48% of the average time spent on a smartphone jumped to 5-6 hours daily from the average smartphone user. This statistic shows an incredible growth in the social impact a smartphone has grown into society.
 
-There are currently more than 7.58 billion smartphones in use today and over 97% of the users are between the ages of 18 and 49 years of age.
+There are currently more than 7.58 billion smartphones in use today and over 97% of the users are between the ages of 18 and 49 years of age. testest on git bash
