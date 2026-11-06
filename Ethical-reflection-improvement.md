@@ -1,3 +1,6 @@
+# Ethical reflection & improvement
+
+## Conflict Minerals and Human Rights
 One of the main ethical concerns surrounding mobile phone production is the use of conflict minerals and poor labour conditions. Conflict minerals are resources mined in war-torn areas, where their sale can help fund armed groups and contribute to ongoing violence. Poor working conditions and limited recycling options also raise ethical concerns. The Good Shopping Guide investigated 19 mobile phone brands and assessed their ethical performance. Only three brands achieved a passable ethical score: Fairphone (99), Nokia (83) and Nothing (77). In contrast, major brands such as Samsung, Apple, Google Pixel and Huawei scored below 40. This highlights the ethical issues within the mobile phone industry and shows that consumers need to consider more than just a phone’s features and price when making a purchase.
 
 These conflict minerals allow for funding of armed groups and violence. This multi-million-dollar trade in conflict minerals serves as a primary financial engine for local militaries and rebel groups. They then tax or forcibly control mines, labour and trade routes, generating millions to buy weapons and fuel prolonged warfare. Not only that, but these small-scale mining hubs often feature dangerous, unregulated conditions where workers, including children, are subjected to extreme forms of exploitation, forced labour, violence and low pay.
@@ -6,7 +9,7 @@ Audits and regulations have been put in place to prevent further use of conflict
 
 In the future, for further improvement, regular supplier checks from companies and greater use of recycled materials could significantly reduce funding for armed groups, prevent worker exploitation and make phone production more sustainable. This would also encourage companies to take greater responsibility for the ethical impact their products create.
 
-  
+## Electronic Waste and Environmental Impact  
 Every year, millions of electrical devices are being thrown out; these discarded devices are known as e-waste and are a threat to health and the environment if disposed of incorrectly. When e-waste is recycled through unsound activities, it can release up to 1000 different chemical substances into the environment, including neurotoxicants such as lead. E-waste is one of the fastest-growing solid waste streams in the world; in 2022, an estimated 62 million tonnes of e-waste were produced globally.
 
 Exposure to e-waste can lead to adverse neonatal outcomes, including increased rates of stillbirth and premature birth. Neurodevelopment, learning and behaviour outcomes are especially associated with lead released through informal e-waste recycling. Reduced lung and respiratory function and increased asthma incidence, this is linked to contaminated air that are chracterized by e-waste recycling sites. Children have different exposures to e-waste recycling than adults, making them significantly more vulnerable, along with pregnant women. 
@@ -15,5 +18,5 @@ The Basel Convention is an environmental agreement that controls the transbounda
 
 In order to create future improvements, it’s worth revising and updating the EU WEEE (Waste Electrical and Electronic Equipment) Directive to account for long-life products, such as solar panels and heating units. This is so that current linear weight-based calculations don't penalize long-term durability and reuse. Not only that, but creating ecodesign-conscious devices that are easily repairable hardware designed from the start for safe disassembly can make huge improvements. Besides that, incorporating health protection measures into national legislation and developing national e-waste management legislation that protects public health can help. 
 
-
-The evolution of mobile phones into smartphones must involve improvements throughout their entire life cycle, from the extraction of raw materials at the beginning to their disposal or recycling at the end. The development of mobile technology highlights how prioritizing innovation over ethical responsibility can worsen existing conflicts and make the recycling process more challenging.
+## Lessons for Future Development
+The evolution of mobile phones into smartphones must involve improvements throughout their entire life cycle, from the extraction of raw materials at the beginning to their disposal or recycling at the end. The development of mobile technology highlights how prioritizing innovation over ethical responsibility can worsen existing conflicts and make the recycling process more challenging. 
