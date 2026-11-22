@@ -12,7 +12,8 @@ The mobile phone has one of the shortest use cycle, whilst also being the most c
 
 *Enhanced Flexibility and Mobility for Employees and Consumers*
 
-* **Developments of AR and VR**: 
+* **Developments of AR and VR**: Augumented and Virtual realities will open up plenty of business opportunities within gaming, education and professional settings to support business with the use of overlayed digital content onto real world environments. This will drive demand for mobile phones with a large amount of processing power and specialised sensors for this specific growing technology. Smartphones being adapted to this technology will help improve operational efficiency within businesses and enhance customer experiences through the use of immersive technologies. Key sectors that will benefit from this would be, Real Estate for displaying buildings, Architecture for displaying model designs and other businesses that require collaborative workspaces with the use of 3d modelling.
+  
 * **Artificial Intelligence**:
 * **Sustainability Trends**:
 
