@@ -7,7 +7,7 @@ Despite these advancements, the production of mobile phone have raised many impo
 
 
 ##### Historical development
-From the world first commercially availible mobile phone in 1984 to the first 
+The development of mobile phones have been shaped by a range of significant technological milestones, beginning with early mobile telephone systems in the 1940s, During its early stages, mobile communication devices was limited by the size and cost, making them accessible to only a small number of people.However as mobile technology continues to develop, improvements in cellular networks and digital communication gradually transfromed the way people used mobile phones. the introduction of IBM(International Business Machine) Simon Personal Communicator in 1994 further demonstrated the potential of combining traditional mobile phones features with computing capabilities, This section examine these developments and the key milestones that have contributed to the evolution of mobile phones into smartphones
 
 ##### First viewpoint: businesses
 From a buissness perspective, the evolution of mobile phone can be analysed through Factors such as market trends, growing competitons , the rate of social economic growth within a country, supply and demand as well as the rapid growth of technology dependence in the business world, these factors influence how companies compete, develop new products and respond to changes in consumer demand 
