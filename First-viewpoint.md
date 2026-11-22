@@ -6,15 +6,15 @@ The mobile phone has one of the shortest use cycle, whilst also being the most c
 *Market Positioning Changes*
 * **Growing Competition**: After the first mobile phone, called the ' DynaTAC 8000X ' was created in 1973 by Dr Martin Cooper of Motorola, and made public in 1983, new competitors entered the market for mobile phones. Brick phones began to emerge from companies such as Nokia, BlackBerry, and Samsung. In 1987 the first Nokia phone, Mobira Cityman 900 was available for the public with the SH-100 of Samsung, following closely behind one year later. The growing influx of these portable mobile phones, was an opportunity for ambitious companies to quickly use as a business opportunity. However many of these companies experienced the whole product life cycle of Introduction, Growth, Saturation, Maturity and a quick decline (Yann-Jy Yang, p2, 2022).
   
-* **Market Expansion**:
+* **Market Expansion**: The start of the market for mobile phones, stems from the need for instant communication of information and the growing popularity of convivence that the mobile phone has to offer. Innovations such as wireless communication son expanded, making them a need for daily life in the modern world today. Digital technology from the 1990s to the early 2000s, focused mainly on the introduction of SMS after voice calls were made. This paved the way for smartphones with touch screens and higher resolution displays, such as launch of the iPhone in 2007. Since then the market has expanded with the intergration of 4g to 5g networks. The emergence of newer technologies such as Artificial intelligence continue to redefine the capabilities of today's smart phone, such as the introduction of voice assitants and so on.
   
-* **New Demands**:
+* **New Demands**: New demands of functions from a mobile phone began to develop after the creation of the first iPhone in 200y by Apple, which is noted as one of the most influential advancement of technology of smartphones. It combined the mobile with different features such as a touchscreen interface. This meant that consumers were able to interact with digital buttons instead of physical ones and without using a stylus as well. The Apple iPhone also included integrated media such as Music, Video, Photos and the internet within the same device.
 
 *Enhanced Flexibility and Mobility for Employees and Consumers*
 
-* **Point 1**:
-* **Point 2**:
-* **Point 3**:
+* **Developments of AR and VR**: 
+* **Artificial Intelligence**:
+* **Sustainability Trends**:
 
 *Specific Business Evidence*
 * **Point 1**

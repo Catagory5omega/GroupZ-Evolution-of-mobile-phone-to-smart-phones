@@ -13,3 +13,14 @@ The prototype was developed into a product in around 10 years. In 1983-1984 the 
 The phone would be useless without a network. The first cellular network was launched in Tokyo in 1979. It was brought into the USA by Ameritech in 1983. It was an analogue signal, therefore was quite effective for making phone calls but wasn’t reliable, could be easily listened in on and only able to support a few users.
 
 During the 1990s this was upgraded to become a digital signal which improved call quality, increased security and allowed sending of data like text messages. Phones became smaller and lighter. Coverage became more widespread. In general knowledge the GSM standard was implemented throughout Europe and globally. The first text message was sent in 1992. Text messaging became one of the most popular forms of communication.
+
+### The First ""Smartphone"
+The first real smartphone came out , there were prototypes shown by IBM at the COMDEX trade show in Las Vegas in November 1992. The actual device, IBM Simon Personal Communicator, was released in the United States with BellSouth on August 16th 1994.
+
+
+
+It was well ahead of its time. The device had cellular phone features , a PDA and touch screen. It had email and many other features all built in. The term ‘smartphone’ wasn’t even invented until 1995 however the Simon is famously  known as being the first one.
+
+
+
+However it was quite expensive at $899. It also had a very short battery life of just around an hour. The phone was quite large. It didn’t do too well with only around 50,000 units sold in the first six months and was quickly dropped from sale. That year Nokia 2110 and 2010 became popular with basic phones taking over the market for the next decade.
