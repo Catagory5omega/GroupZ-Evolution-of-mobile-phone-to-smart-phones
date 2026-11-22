@@ -14,7 +14,7 @@ The phone would be useless without a network. The first cellular network was lau
 
 During the 1990s this was upgraded to become a digital signal which improved call quality, increased security and allowed sending of data like text messages. Phones became smaller and lighter. Coverage became more widespread. In general knowledge the GSM standard was implemented throughout Europe and globally. The first text message was sent in 1992. Text messaging became one of the most popular forms of communication.
 
-### The First ""Smartphone"
+### The First "Smartphone"
 The first real smartphone came out , there were prototypes shown by IBM at the COMDEX trade show in Las Vegas in November 1992. The actual device, IBM Simon Personal Communicator, was released in the United States with BellSouth on August 16th 1994.
 
 
