@@ -20,8 +20,5 @@ The impact of the development of smartphones has allowed a drastic change on soc
  Use of smartphones in education also changed the traditional way of learning. It creates a more flexible way of teaching for the teachers and a more flexible way of learning for the students. Smartphopnes have such a great impact on education where most college lectures nowadays do not even use a copy, more would use other means like a laptop or smartphone. This also allows all students when they go home, or even right after the lecture or class, to be able to access all the notes done in class and revise them when the students have any free time.
 
 
-
-
-
-
 ### Healthcare:
+Healthcare has evolved in ways that created shortcuts in a few areas. Where the evolution of mobile phones to smartphones have introduced telemedicine for low resource settings. The evolution also made it so if you experience symptoms and you dont know what it could result to, you can simply search it up on your smartphone making it simple, time-saving, and resourceful on the go. 
