@@ -14,7 +14,7 @@ The phone would be useless without a network. The first cellular network was lau
 
 During the 1990s this was upgraded to become a digital signal which improved call quality, increased security and allowed sending of data like text messages. Phones became smaller and lighter. Coverage became more widespread. In general knowledge the GSM standard was implemented throughout Europe and globally. The first text message was sent in 1992. Text messaging became one of the most popular forms of communication.
 
-### The First ""Smartphone"
+### The First "Smartphone"
 The first real smartphone came out , there were prototypes shown by IBM at the COMDEX trade show in Las Vegas in November 1992. The actual device, IBM Simon Personal Communicator, was released in the United States with BellSouth on August 16th 1994.
 
 
@@ -24,3 +24,9 @@ It was well ahead of its time. The device had cellular phone features , a PDA an
 
 
 However it was quite expensive at $899. It also had a very short battery life of just around an hour. The phone was quite large. It didn’t do too well with only around 50,000 units sold in the first six months and was quickly dropped from sale. That year Nokia 2110 and 2010 became popular with basic phones taking over the market for the next decade.
+
+### They Became Everyday Objects
+As mobile phones got better (smaller, cheaper, more reliable) and new features were added, such as cameras, internet access and e-mail, mobile phones became essential items. In Japan, 3G was introduced in 2001, making internet feasible on mobiles. BlackBerrys became popular in businesses due to their keyboards and e-mail. However, in the middle of the 2000’s, although the Nokia N95 was very advanced, very few people were using internet on mobile phones.
+
+### The IPhone Gamechanger
+On the 9 th January 2007 the iPhone was announced, and released on the 29 th June 2007. It had a large touch screen, and was designed to be operated with touch. There were no third party apps, video recording or GPS at launch. However, in 2008 app development was allowed, meaning that it quickly became a platform, with lots of apps available in the App Store. Only around 6.1 million units were sold of the original iPhone, however almost all smartphones since have followed this model.
