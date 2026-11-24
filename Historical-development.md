@@ -1,32 +1,48 @@
 ## Historical Development 
-### Introduction
-People today are constantly glued to their screens, tapping and scrolling for hours a day. A 2019 Deloitte survey reported by RTÉ found that Irish people check their phones about 50 times a day on average, and 32% check them within five minutes of waking up. Despite all this screen time, very few people know where the smartphone came from. The device in your pocket is the result of more than fifty years of invention, failed products and fierce competition between companies.
-### Before the First " Phone"
-The concept of mobile phones is actually not that new. In the 1940s there were early systems in place to allow people to make calls from their cars. The devices were big radio telephones installed into cars. This was very costly so only a small amount of people could use them. Phones were still restricted to certain places like a house or office, or even in a car. People could not make calls to someone wherever they were.
+### The Orgins of Smartphones
 
- ### The First Comercial "Phone"
-The prototype was developed into a product in around 10 years. In 1983-1984 the Motorola DynaTAC 8000X became the first commercially available mobile phone. It was priced at around $4,000 (Today’s value would be over $11,000).
+People spend an incredible amount of time on their phones each day. According to a 2019 Deloitte report which was highlighted by RTÉ, the average person in Ireland checks their phone 50 times a day. Also 32% will do so in the first 5 minutes of waking. Despite this, many people are unaware of the history behind smartphones.
 
- It was very bulky and weighed around 1kg. It was also nicknamed ‘the Brick’. It had a small battery life of around 30 minutes. The phone wasn’t really something you’d use everyday, but instead a status symbol. It was a massive milestone in mobile phone development and set the scene for future phones.
+### Pre-Mobile Phone
 
-### The First Mobile Networks
-The phone would be useless without a network. The first cellular network was launched in Tokyo in 1979. It was brought into the USA by Ameritech in 1983. It was an analogue signal, therefore was quite effective for making phone calls but wasn’t reliable, could be easily listened in on and only able to support a few users.
+Whilst people commonly associate mobiles with being a relatively new invention, in fact, mobile calling was available as early as the 1940s. There were mobile phone services available in cars but again, only a small number of people used these. People were still restricted to calling from a fixed location, and there was no way of contacting someone irrespective of where they were.
 
-During the 1990s this was upgraded to become a digital signal which improved call quality, increased security and allowed sending of data like text messages. Phones became smaller and lighter. Coverage became more widespread. In general knowledge the GSM standard was implemented throughout Europe and globally. The first text message was sent in 1992. Text messaging became one of the most popular forms of communication.
+### First Mobile Phone Call
 
-### The First "Smartphone"
-The first real smartphone came out , there were prototypes shown by IBM at the COMDEX trade show in Las Vegas in November 1992. The actual device, IBM Simon Personal Communicator, was released in the United States with BellSouth on August 16th 1994.
+Motorola engineer Martin Cooper made history on April 3rd 1973 by making the first ever mobile phone call. He was on a New York pavement and used a ‘hand-held’ mobile phone (known as the DynaTAC) to contact Dr Joel S. Engel from competing firm, Bell Labs. Cooper’s team developed the phone in approximately 90 days. However, Motorola did not make any money from it until around 1993 despite having spent approximately $100 million on it between 1973 and 1993.
 
+### First Mobile Phone For Sale
 
+Around 10 years was spent developing the original mobile phone prototype into a marketable product. In 1983/84, Motorola produced and sold the DynaTAC 8000X; the first hand-held mobile phone. It was hugely expensive, with a price tag of around $4000. Furthermore, it was large and weighed around 1kg and was nicknamed ‘the Brick’. Its phone battery only provided around 20-35 minutes of talking time.
 
-It was well ahead of its time. The device had cellular phone features , a PDA and touch screen. It had email and many other features all built in. The term ‘smartphone’ wasn’t even invented until 1995 however the Simon is famously  known as being the first one.
+### 1G – First Mobile Networks
 
+The first cellular phone network was launched in Tokyo in 1979. It was introduced to the USA in 1983 by Ameritech. The first generation of mobile phone networks (1G) utilised analogue. Although adequate for calling, it was certainly nothing like as sophisticated as current mobile networks.
 
+### 2G – Digital
 
-However it was quite expensive at $899. It also had a very short battery life of just around an hour. The phone was quite large. It didn’t do too well with only around 50,000 units sold in the first six months and was quickly dropped from sale. That year Nokia 2110 and 2010 became popular with basic phones taking over the market for the next decade.
+During the 1990s, mobile phone networks transitioned to digital. This enabled digital information including text to be transmitted. An official GSM call was made in Finland on July 1st 1991. Also, on December 3rd 1992, Neil Papworth transmitted the first text message – ‘Merry Christmas’ – to a Vodafone director.
 
-### They Became Everyday Objects
-As mobile phones got better (smaller, cheaper, more reliable) and new features were added, such as cameras, internet access and e-mail, mobile phones became essential items. In Japan, 3G was introduced in 2001, making internet feasible on mobiles. BlackBerrys became popular in businesses due to their keyboards and e-mail. However, in the middle of the 2000’s, although the Nokia N95 was very advanced, very few people were using internet on mobile phones.
+### First Smartphone – IBM Simon
 
-### The IPhone Gamechanger
-On the 9 th January 2007 the iPhone was announced, and released on the 29 th June 2007. It had a large touch screen, and was designed to be operated with touch. There were no third party apps, video recording or GPS at launch. However, in 2008 app development was allowed, meaning that it quickly became a platform, with lots of apps available in the App Store. Only around 6.1 million units were sold of the original iPhone, however almost all smartphones since have followed this model.
+During this time the first actual smartphone was developed. IBM presented a prototype at the COMDEX exhibition in Las Vegas during November 1992. On August 16th 1994, BellSouth then sold the IBM Simon Personal Communicator. This was both a mobile phone and a personal digital assistant. It featured a touch screen and had the ability to send and receive e-mail. Unfortunately it was very expensive ($899), its battery only lasted around one hour and reportedly only approximately 50,000 units were sold within 6 months.
+
+### Phones Become Common
+
+During the early 2000s mobile phone technology progressed rapidly. On October 1st 2001, NTT DoCoMo provided the world’s first 3G service; however, initially this had a limited network. Also, due to its tactile keyboard and the facility to electronically receive e-mails, BlackBerry mobile phones became widely used by professionals. The initial BlackBerry was produced in 2002.
+
+### The iPhone Revolutionises Phones
+
+Apple presented details of its first iPhone on January 9 th 2007. It was then sold on June 29 th 2007. Unlike later models, the original iPhone had no physical keyboard and used a touch screen. Initially it also lacked third party applications, video recording and GPS functionality. However, in 2008, Apple produced software for developers which transformed the phone into a software platform. Today, the majority of smartphones emulate this.
+
+### Android Enters the Market
+
+Shortly after the iPhone was introduced (in November 2007), Google presented its own mobile phone operating system – Android. Originally Google intended for this to be used on a non-touchscreen phone but the iPhone’s popularity caused Google to adapt its strategy and emphasise touchscreens. The first Android phone, the HTC Dream, was presented in September 2008 and was then released in October 2008.
+
+### 4G and 5G – Improved Speed and Constant Connectivity
+
+4G was developed around 2008. However, none of the mobile phone companies were initially able to achieve the 100Mbps download speed that 4G promised. 5G was then made available to the general public in 2019. Between 2007 and 2019, worldwide smartphone sales increased dramatically from around 207 million to over 1.56 billion (according to Gartner).
+
+### Conclusion
+
+Within roughly 50 years, mobile phones have evolved from a large, unwieldy device (weighing around 1kg) with a short battery life to a compact computer that the majority of people now depend on daily. Every innovation has been based upon its predecessor. Thus, developments have included Cooper’s pioneering phone call, the DynaTAC, digital networks, the IBM Simon and then the iPhone and Android. Understanding this progression is key to appreciating the significance of mobiles.
