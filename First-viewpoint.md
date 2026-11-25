@@ -14,13 +14,4 @@ The mobile phone has one of the shortest use cycle, whilst also being the most c
 
 * **Developments of AR and VR**: Augumented and Virtual realities will open up plenty of business opportunities within gaming, education and professional settings to support business with the use of overlayed digital content onto real world environments. This will drive demand for mobile phones with a large amount of processing power and specialised sensors for this specific growing technology. Smartphones being adapted to this technology will help improve operational efficiency within businesses and enhance customer experiences through the use of immersive technologies. Key sectors that will benefit from this would be, Real Estate for displaying buildings, Architecture for displaying model designs and other businesses that require collaborative workspaces with the use of 3d modelling.
   
-* **Artificial Intelligence**:
-* **Sustainability Trends**:
-
-*Specific Business Evidence*
-* **Point 1**
-* **Point 2**
-* **Point 3**
-* **Point 4**
-
-1
+* **Artificial Intelligence**: Future smartphones will have features of AI to enhance the user's experience more as research on artificial intelligence increases. These can range from enhanced camera footage and quality and improve performance overall. AI can now do more than just simple voice commands. It can create their responses depending on the context of the user by going through the users data. This can range from the apps they use, the personalized advertisements they receive or even their conversations.
