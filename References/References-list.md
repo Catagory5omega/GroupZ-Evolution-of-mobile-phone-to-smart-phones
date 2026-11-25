@@ -2,6 +2,32 @@
 ## introduction
 https://www.sciencemuseum.org.uk/objects-and-stories/invention-mobile-phones
 
+## First Viewpoint
+The Rise of Mobile Technology in Business: 5 Ways It's Shaping the Future - Aberdeen Strategy & Research
+https://eur05.safelinks.protection.outlook.com/GetUrlReputation
+
+EGG 2020 - evolution of the smartphone 
+https://www.researchgate.net/profile/Melanie-Jaeger-Erben/publication/344190475_The_smartphone_evolution_-_an_analysis_of_the_design_evolution_and_environmental_impact_of_smartphones/links/602b3a94a6fdcc37a82c1125/The-smartphone-evolution-an-analysis-of-the-design-evolution-and-environmental-impact-of-smartphones.pdf
+
+History of Mobile Technology: From Early Cellular Phones to Modern Smartphones - techhistorylab.com 
+https://techhistorylab.com/history-of-mobile-technology-evolution/
+
+Early Smartphone Timeline: From Basic to Smart Devices 
+https://techsnostalgia.com/early-smartphone-timeline/
+
+The First Cell Phone: A Complete Phone History from 1920 to | History Cooperative 
+https://historycooperative.org/first-cell-phone/
+
+https://www.cmr-journal.org/index.php/CMR/article/view/23409
+
+https://www.scribd.com/document/44611588/Mobile-Phone-Evaluation
+
+Mobile Phones Market Size, Growth Analysis & Forecast
+https://www.verifiedmarketreports.com/product/mobile-phones-market-size-and-forecast/
+
+(PDF) Exploring the Mobile Phone Market: Current Insights and Future Prospects
+https://www.researchgate.net/publication/382113779_Exploring_the_Mobile_Phone_Market_Current_Insights_and_Future_Prospects
+
 ## Historical development
 ### The Origin of the Smartphone
 https://www.rte.ie/news/newslens/2019/1204/1096907-smartphone
@@ -69,6 +95,13 @@ Android Joins the Race
 https://webarchive.library.unt.edu/web/20130217081306/http://blogs.voanews.com/science-world/tag/apps
 https://www.philstar.com/business/technology/2017/07/02/1715688/10-years-iphone-and-the-smartphone-revolution
 https://appleinsider.com/articles/14/04/14/exclusive_android_docs_reveal_before_iphone_googles_plan_was_a_java_button_phone.html
+
+### Ethical Reflection
+https://thegoodshoppingguide.com/ethical-mobile-phones/
+
+https://www.who.int/news-room/fact-sheets/detail/electronic-waste-(e-waste)
+
+https://www.weeeireland.ie/2024/04/29/weee-ireland-recycling-survey-reveals-worrying-e-waste-disposal-trends/
 
 4G and 5G: Faster and Always Connected
 https://ozmobiles.com.au/blogs/smartphones/the-history-of-mobile-networks-explained-from-1g-to-5g
