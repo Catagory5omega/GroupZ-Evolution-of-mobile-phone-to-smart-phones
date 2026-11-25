@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Case Study: Evolution of mobile phones to smartphones
 
 
@@ -83,3 +84,6 @@ The evolution of mobile phones to smartphones made an outstanding change to our 
 
 
 ## Conclusion
+=======
+## Final Draft 
+>>>>>>> 97a78ab4a4bfded3a2e37875088b9e2e0ba5638f

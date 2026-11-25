@@ -1,7 +1,9 @@
 ## Introduction
 ### Case study: Evolution of mobile phone to smart phone
 
-This case study will examine the development of mobile phone to smartphones, providing an indept analysis of its historical developments, key figures and major milestones that have contributed to the evolution of the modewrn mobile phone. The development will be analyse through two viewpoints, the viewpoint of business and societal, these viewpoints will explore how the evolution of mobile technologies have influence businesses and people's daily lives, including their contrasting perspectives on these development.
+This case study will examine the development of mobile phone to smartphones, providing an indept analysis of its historical developments and the key figures, major milestones that have contributed to the evolution of the modern mobile phones. This development will be analyse through two viewpoints, the viewpoint of business and societal, these viewpoints will explore how the evolution of mobile technologies have influence businesses and people's daily lives, including their contrasting perspectives on these development.
+
+Before phones became publicly availible,radio communication was mainly used by the military and police, despite its bulkiness and how its not accessible to ordinary people, this system allows people to communicate over long distance, as demands increased manufacturers began to produce smaller, cheaper and more accessible devices.
 
 Despite these advancements, the production of mobile phone have raised many important ethical and environmental concerns. Emphasizing the importance of understanding the wider impact of technological developments and the ethical responsibilities involed in manufacturing mobile phones
 
