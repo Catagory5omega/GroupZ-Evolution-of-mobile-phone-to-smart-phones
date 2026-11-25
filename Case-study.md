@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Case Study: Evolution of mobile phones to smartphones
 
 
@@ -54,6 +54,22 @@ As mobile phones got better (smaller, cheaper, more reliable) and new features w
 On the 9 th January 2007 the iPhone was announced, and released on the 29 th June 2007. It had a large touch screen, and was designed to be operated with touch. There were no third party apps, video recording or GPS at launch. However, in 2008 app development was allowed, meaning that it quickly became a platform, with lots of apps available in the App Store. Only around 6.1 million units were sold of the original iPhone, however almost all smartphones since have followed this model.
 
 ## First Viewpoint: Business
+##### Defining the Business Viewpoint
+The mobile phone has one of the shortest use cycle, whilst also being the most commonly used device in the world. Looking through a business perspective, the developments of mobile technology are measured greatly based on a number of factors. These include market trends, growing competitors in the market such as Apple versus Android, the rate of social economic growth within a country, demand and supply as well as the rapid growth of technology dependence in the business world today.
+
+##### The Transformation Through Business Eyes
+*Market Positioning Changes*
+* **Growing Competition**: After the first mobile phone, called the ' DynaTAC 8000X ' was created in 1973 by Dr Martin Cooper of Motorola, and made public in 1983, new competitors entered the market for mobile phones. Brick phones began to emerge from companies such as Nokia, BlackBerry, and Samsung. In 1987 the first Nokia phone, Mobira Cityman 900 was available for the public with the SH-100 of Samsung, following closely behind one year later. The growing influx of these portable mobile phones, was an opportunity for ambitious companies to quickly use as a business opportunity. However many of these companies experienced the whole product life cycle of Introduction, Growth, Saturation, Maturity and a quick decline (Yann-Jy Yang, p2, 2022).
+  
+* **Market Expansion**: The start of the market for mobile phones, stems from the need for instant communication of information and the growing popularity of convivence that the mobile phone has to offer. Innovations such as wireless communication son expanded, making them a need for daily life in the modern world today. Digital technology from the 1990s to the early 2000s, focused mainly on the introduction of SMS after voice calls were made. This paved the way for smartphones with touch screens and higher resolution displays, such as launch of the iPhone in 2007. Since then the market has expanded with the intergration of 4g to 5g networks. The emergence of newer technologies such as Artificial intelligence continue to redefine the capabilities of today's smart phone, such as the introduction of voice assitants and so on.
+  
+* **New Demands**: New demands of functions from a mobile phone began to develop after the creation of the first iPhone in 200y by Apple, which is noted as one of the most influential advancement of technology of smartphones. It combined the mobile with different features such as a touchscreen interface. This meant that consumers were able to interact with digital buttons instead of physical ones and without using a stylus as well. The Apple iPhone also included integrated media such as Music, Video, Photos and the internet within the same device.
+
+*Enhanced Flexibility and Mobility for Employees and Consumers*
+
+* **Developments of AR and VR**: Augumented and Virtual realities will open up plenty of business opportunities within gaming, education and professional settings to support business with the use of overlayed digital content onto real world environments. This will drive demand for mobile phones with a large amount of processing power and specialised sensors for this specific growing technology. Smartphones being adapted to this technology will help improve operational efficiency within businesses and enhance customer experiences through the use of immersive technologies. Key sectors that will benefit from this would be, Real Estate for displaying buildings, Architecture for displaying model designs and other businesses that require collaborative workspaces with the use of 3d modelling.
+  
+* **Artificial Intelligence**: Future smartphones will have features of AI to enhance the user's experience more as research on artificial intelligence increases. These can range from enhanced camera footage and quality and improve performance overall. AI can now do more than just simple voice commands. It can create their responses depending on the context of the user by going through the users data. This can range from the apps they use, the personalized advertisements they receive or even their conversations.
 
 
 ## Second Viewpoint: Societal
@@ -81,9 +97,28 @@ The evolution of mobile phones to smartphones made an outstanding change to our 
  Healthcare has evolved in ways that created shortcuts in a few areas. Where the evolution of mobile phones to smartphones have introduced telemedicine for low resource settings. The evolution also made it so if you experience symptoms and you don't know what it could result to, you can simply search it up on your smartphone making it simple, time-saving, and resourceful on the go. 
 
 ## Ethical Reflection
+##### Conflict Minerals and Human Rights
+The main ethical concerns surrounding mobile phone production is their use of conflict minerals and poor labour conditions. Conflict minerals are gathered resources from war-torn areas, these resources are used to support local conflict by funding local armed groups. Also unstable working conditions and a limited recycling options raise ethical concerns. The Good Shopping Guide has investigated 19 mobile phone brands and assessed their ethical performance. Only three brands achieved a passable ethical score: Fairphone (99), Nokia (83) and Nothing (77). In contrast, major brands such as Samsung, Apple, Google Pixel and Huawei scored below 40. This overtly highlights the ethical issues within the mobile phone industry and shows that consumers need to consider more than just a phone’s features and price when making a purchase.
 
+These conflict minerals allow for funding of armed groups and violence. This multi‑million‑dollar trade in conflict minerals serves as a financial engine for local militaries and rebel groups. They then, forcibly control mines and labour to generating millions to buy weapons and fuel prolonged warfare. Not only that, These small‑scale mining hubs often feature dangerous, unregulated conditions where workers, including children, are subjected to extreme forms of exploitation, forced labour, violence and low pay.
 
-## Conclusion
-=======
-## Final Draft 
->>>>>>> 97a78ab4a4bfded3a2e37875088b9e2e0ba5638f
+Audits and regulations have been put in place to prevent use of conflict materials. Under legislation such as the U.S. Dodd‑Frank Act and international due diligence standards, major brands such as Apple and Samsung are pressured to audit their smelters and refiners through organizations like the Responsible Minerals Initiative.
+
+In the future, for improvement, regular supplier checks from companies and greater use of recycled materials could significantly reduce funding for armed groups, prevent worker exploitation and make phone production more sustainable. This would also encourage companies to take responsibility for the ethical impact their products create.
+
+##### Electronic Waste and Environmental Impact
+Every year, millions of electrical devices are being thrown out; these discarded devices are known as e-waste and are a threat to health and the environment if disposed of incorrectly. When e-waste is recycled through unsound activities, it can release up to 1000 different chemical substances into the environment, including neurotoxicants such as lead. E-waste is one of the fastest-growing solid waste streams in the world; in 2022, an estimated 62 million tonnes of e-waste were produced globally.
+
+Exposure to e-waste can lead to adverse neonatal outcomes, including increased rates of stillbirth and premature birth. Neurodevelopment, learning and behaviour outcomes are especially associated with lead released through informal e-waste recycling. Reduced lung and respiratory function and increased asthma incidence, this is linked to contaminated air that are distinguished by e-waste recycling sites. Children have different exposures to e-waste recycling than adults, making them significantly more vulnerable, along with pregnant women.
+
+The Basel Convention is an environmental agreement that controls the transboundary movement of waste and its disposal. In 2019, the Ban Amendment to the Basel Convention entered into force, prohibiting the movement of hazardous waste, such as e-waste, from different countries and states that are parties to the Convention. It also contains workshops that help to build awareness of e-waste and guidelines to distinguish waste from non-waste.
+
+In order to create future improvements, it’s worth revising and updating the EU WEEE (Waste Electrical and Electronic Equipment) Directive to account for long-life products, such as solar panels and heating units. This is so that current linear weight-based calculations don't penalize long-term durability and reuse. Not only that, but creating ecodesign-conscious devices that are easily repairable hardware designed from the start for safe disassembly can make huge improvements. Besides that, incorporating health protection measures into national legislation and developing national e-waste management legislation that protects public health can help.
+
+##### Lessons for Future Development
+The evolution of mobile phones into smartphones must involve improvements throughout their entire life cycle, from the extraction of raw materials at the beginning to their disposal or recycling at the end. The development of mobile technology highlights how prioritizing innovation over ethical responsibility can worsen existing conflicts and make the recycling process more challenging
+
+##### Conclusion
+The transformation of mobile phones into smartphones portrays a major milestone in technological development. From the rudimentary communication device of the past to today’s evolved smartphones, this development has changed how people obtain information and interact with the world.
+
+This change has been made in many different ways under Ethical standards, from a business viewpoint, changed our society, and changed how we interact with everyone around us. Whether its in a productive sense or not, smartphones changed our society drastically.
