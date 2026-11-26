@@ -125,6 +125,10 @@ This change has been made in many different ways under Ethical standards, from a
 introduction
 https://www.sciencemuseum.org.uk/objects-and-stories/invention-mobile-phones
 
+Ethical Reflection + Conclusion
+https://thegoodshoppingguide.com/ethical-mobile-phones/,
+https://www.who.int/news-room/fact-sheets/detail/electronic-waste-(e-waste),
+https://www.weeeireland.ie/2024/04/29/weee-ireland-recycling-survey-reveals-worrying-e-waste-disposal-trends/
+https://www.responsiblemineralsinitiative.org/about/faq/general-questions/what-are-conflict-minerals/
 
-## Reference used
 
