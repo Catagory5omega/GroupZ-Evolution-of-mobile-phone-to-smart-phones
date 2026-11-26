@@ -121,6 +121,10 @@ The transformation of mobile phones into smartphones portrays a major milestone 
 This change has been made in many different ways under Ethical standards, from a business viewpoint, changed our society, and changed how we interact with everyone around us. Whether its in a productive sense or not, smartphones changed our society drastically.
 
 
+## reference used
+introduction
+https://www.sciencemuseum.org.uk/objects-and-stories/invention-mobile-phones
+
 
 
 ## Reference used
