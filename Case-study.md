@@ -167,8 +167,7 @@ https://www.philstar.com/business/technology/2017/07/02/1715688/10-years-iphone-
 ### First Viewpoint: Business
 https://www.aberdeen.com/blogposts/the-rise-of-mobile-technology-in-business-5-ways-its-shaping-the-future/
 
-https://www.researchgate.net/profile/Melanie-Jaeger-Erben/publication/344190475_The_smartphone_evolution_-
-_an_analysis_of_the_design_evolution_and_environmental_impact_of_smartphones/links/602b3a94a6fdcc37a82c1125/The-smartphone-evolution-an-analysis-of-the-design-evolution-and-environmental-impact-of-smartphones.pdf
+https://www.researchgate.net/profile/Melanie-Jaeger-Erben/publication/344190475_The_smartphone_evolution_-_an_analysis_of_the_design_evolution_and_environmental_impact_of_smartphones/links/602b3a94a6fdcc37a82c1125/The-smartphone-evolution-an-analysis-of-the-design-evolution-and-environmental-impact-of-smartphones.pdf
 
 https://techhistorylab.com/history-of-mobile-technology-evolution/
 
