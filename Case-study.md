@@ -122,13 +122,63 @@ This change has been made in many different ways under Ethical standards, from a
 
 
 ## Reference used
-introduction
+### introduction
 https://www.sciencemuseum.org.uk/objects-and-stories/invention-mobile-phones
 
-Ethical Reflection + Conclusion
+### Historical Development
+https://www.rte.ie/news/newslens/2019/1204/1096907-smartphone https://www.deloitte.com/ie/en/Industries/tmt/research/global-mobile-consumer-survey.html
+https://www.deloitte.com/ie/en/Industries/tmt/research/global-mobile-consumer-survey.html
+https://ozmobiles.com.au/blogs/smartphones/the-history-of-mobile-networks-explained-from-1g-to-5g 
+https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)
+https://nextgov.com/modernization/2013/04/first-mobile-phone-call-was-made-40-years-ago-today/62261
+https://bocaratonobserver.com/culture/buzz/the-dawn-of-the-mobile-era/
+https://silicon.co.uk/workspace/mobile-phone-call-motorola-cooper-111990/amp
+https://ozmobiles.com.au/blogs/smartphones/the-history-of-mobile-networks-explained-from-1g-to-5g
+https://aerial-direct.co.uk/?p=127684
+https://aerial-direct.co.uk/?p=127684
+https://www.telecomtrainer.com/mobile-generations-from-1g-up-to-5g/
+https://route-fifty.com/digital-government/2011/07/20-years-after-first-call-gsm-rules-the-mobile-world/283425
+https://neilpapworth.com/
+https://www.history.com/this-day-in-history/december-3/first-sms-text-message-sent
+https://www.npr.org/2017/12/04/568393428/the-first-text-messages-celebrates-25-years
+https://time.com/3137005/first-smartphone-ibm-simon
+https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/IBM_Simon.html
+https://japantimes.co.jp/community/2002/12/01/general/tapping-into-the-future-of-wireless-communication
+https://lowendmac.com/2007/original-iphone/
+https://www.philstar.com/business/technology/2017/07/02/1715688/10-years-iphone-and-the-smartphone-revolution
+
+### First Viewpoint: Business
+https://www.aberdeen.com/blogposts/the-rise-of-mobile-technology-in-business-5-ways-its-shaping-the-future/
+https://www.researchgate.net/profile/Melanie-Jaeger-Erben/publication/344190475_The_smartphone_evolution_-_an_analysis_of_the_design_evolution_and_environmental_impact_of_smartphones/links/602b3a94a6fdcc37a82c1125/The-smartphone-evolution-an-analysis-of-the-design-evolution-and-environmental-impact-of-smartphones.pdf
+https://techhistorylab.com/history-of-mobile-technology-evolution/
+https://techsnostalgia.com/early-smartphone-timeline/
+https://historycooperative.org/first-cell-phone/
+https://www.cmr-journal.org/index.php/CMR/article/view/23409
+https://www.scribd.com/document/44611588/Mobile-Phone-Evaluation
+https://www.verifiedmarketreports.com/product/mobile-phones-market-size-and-forecast/
+https://www.researchgate.net/publication/382113779_Exploring_the_Mobile_Phone_Market_Current_Insights_and_Future_Prospects
+
+### Second Viewpoint: Societal
+https://www.govtech.com/products/How-Smartphones-Revolutionized-Society-in-Less-than-a-Decade.html
+https://www.demandsage.com/smartphone-usage-statistics/
+https://www.gcu.edu/blog/gcu-experience/how-cellphones-affect-communication-skills
+https://adamosoft.com/blog/edutech-solutions/impact-of-smartphones-on-education/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC12314669/
+
+### Ethical Reflection + Conclusion
+https://www.aberdeen.com/blogposts/the-rise-of-mobile-technology-in-business-5-ways-its-shaping-the-future/
+https://www.researchgate.net/profile/Melanie-Jaeger-Erben/publication/344190475_The_smartphone_evolution_-_an_analysis_of_the_design_evolution_and_environmental_impact_of_smartphones/links/602b3a94a6fdcc37a82c1125/The-smartphone-evolution-an-analysis-of-the-design-evolution-and-environmental-impact-of-smartphones.pdf
+https://techhistorylab.com/history-of-mobile-technology-evolution/
+https://techsnostalgia.com/early-smartphone-timeline/
+https://historycooperative.org/first-cell-phone/
+https://www.cmr-journal.org/index.php/CMR/article/view/23409
+https://www.scribd.com/document/44611588/Mobile-Phone-Evaluation
+https://www.verifiedmarketreports.com/product/mobile-phones-market-size-and-forecast/
+https://www.researchgate.net/publication/382113779_Exploring_the_Mobile_Phone_Market_Current_Insights_and_Future_Prospects
 https://thegoodshoppingguide.com/ethical-mobile-phones/,
 https://www.who.int/news-room/fact-sheets/detail/electronic-waste-(e-waste),
 https://www.weeeireland.ie/2024/04/29/weee-ireland-recycling-survey-reveals-worrying-e-waste-disposal-trends/
 https://www.responsiblemineralsinitiative.org/about/faq/general-questions/what-are-conflict-minerals/
+
 
 
